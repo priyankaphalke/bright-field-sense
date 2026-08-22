@@ -13,9 +13,11 @@
 ## 🔗 Project Links
 
 ### 🌐 Live Website
-[Visit the Live Website](PASTE-YOUR-WEBSITE-LINK-HERE)
+
+[Visit Bright-Field-Sense](https://bright-field-sense.lovable.app)
 
 ### 🎥 MVP Demonstration Video
+
 [Watch the MVP Demonstration Video](PASTE-YOUR-GOOGLE-DRIVE-VIDEO-LINK-HERE)
 
 ---
@@ -34,41 +36,52 @@ After harvesting, farmers are often left with large quantities of crop residue.
 
 When timely alternatives such as residue-collection machinery, transportation, storage facilities, or biomass buyers are difficult to find, burning can become the easiest way to clear the field.
 
-The problem is therefore not only the possibility of crop-residue burning, but also the lack of timely coordination between:
+The challenge is therefore not only identifying crop-residue burning, but also providing a **timely and practical alternative** before burning occurs.
 
-- Farmers
-- Residue-management machinery
-- Transport services
-- Storage facilities
-- Biomass buyers
-- Response and government teams
+Farmers may not know:
 
-Our solution focuses on identifying fields where burning risk may be high and helping coordinate feasible alternatives before burning occurs.
+- Where nearby residue-collection machinery is available
+- Whether transportation is available
+- Where residue can be stored
+- Whether biomass buyers are available
+- Which available option is feasible for their field and residue quantity
+
+This creates a gap between **identifying the risk** and **taking preventive action**.
 
 ---
 
-# 💡 Our Solution
+# 💡 Proposed Solution
 
-**Neutral Minds — Crop Residue Intelligence** is an AI-powered decision-support platform designed to help prevent avoidable crop-residue burning.
+**Bright-Field-Sense** is an AI-powered decision-support platform designed to help prevent avoidable crop-residue burning.
 
-The platform combines farm, crop, harvest, weather and location-related information to assess the risk of crop-residue burning.
+The platform combines:
 
-When a field is identified as high-risk, the platform helps identify nearby residue-management resources and recommends a feasible option based on factors such as:
+**Farm Data + Crop & Harvest Data + Weather + Location Intelligence**
+
+to assess the risk of crop-residue burning.
+
+When a field is identified as high-risk, the platform helps identify nearby residue-management resources and recommends a feasible option based on:
 
 - Distance
 - Availability
 - Capacity
 - Estimated response time
 
-The solution also provides a regional monitoring dashboard that can help response teams prioritize high-risk fields and track interventions.
-
 ### Our Core Approach
 
-**Predict → Match → Prevent**
+**🔥 Predict → 🚜 Match → 🌱 Prevent**
 
-We do not stop at predicting risk.
+### Predict
 
-We aim to connect the identified risk with a practical alternative.
+Identify fields where crop-residue burning risk may be high.
+
+### Match
+
+Find nearby and feasible residue-management resources.
+
+### Prevent
+
+Provide an actionable alternative before burning becomes the easiest option.
 
 ---
 
@@ -101,13 +114,13 @@ Regional Monitoring
 
 ## 1. 👨‍🌾 Farmer Registration
 
-The platform allows farmers to provide basic information required for personalized and location-aware residue-management support.
+The platform allows farmers to provide basic information required for location-aware residue-management support.
 
 ---
 
 ## 2. 🌾 Crop & Harvest Details
 
-Farmers can provide important crop and harvest information such as:
+Farmers can provide:
 
 - Crop type
 - Harvest date
@@ -139,5 +152,15 @@ Major contributing factors:
 • Low rainfall probability
 • Limited nearby resources
 
+**🌍 SDG Alignment**
+SDG 13 — Climate Action
 
+The platform focuses on proactive identification and intervention for crop-residue burning risks and supports more informed and sustainable residue-management decisions.
 
+SDG 15 — Life on Land
+
+The solution supports sustainable agricultural practices and encourages alternatives to uncontrolled residue burning.
+
+SDG 12 — Responsible Consumption and Production
+
+The resource-coordination layer can help identify pathways for collection, reuse, storage and biomass utilization of agricultural residue.
